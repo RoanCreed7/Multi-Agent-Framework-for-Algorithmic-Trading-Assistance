@@ -1,0 +1,34 @@
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.deps.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.runtimeconfig.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.runtimeconfig.dev.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.pdb
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/ActressMas.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/ActressMas.xml
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.AssemblyReference.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.AssemblyInfoInputs.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.AssemblyInfo.cs
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.CoreCompileInputs.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.CopyComplete
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.pdb
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test Algo trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.genruntimeconfig.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.deps.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.runtimeconfig.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.runtimeconfig.dev.json
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.pdb
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/ActressMas.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/bin/Debug/netcoreapp3.1/ActressMas.xml
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.AssemblyReference.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.AssemblyInfoInputs.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.AssemblyInfo.cs
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.CoreCompileInputs.cache
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.csproj.CopyComplete
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.dll
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS_Coursework_Double_Auction.pdb
+/Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/obj/Debug/netcoreapp3.1/MAS Algo Trader.genruntimeconfig.cache

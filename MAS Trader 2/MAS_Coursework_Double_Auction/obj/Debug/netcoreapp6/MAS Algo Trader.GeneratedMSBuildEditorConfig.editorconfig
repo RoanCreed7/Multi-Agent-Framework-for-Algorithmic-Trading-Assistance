@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = netcoreapp6
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAS_Algo_Trader
+build_property.ProjectDir = /Users/roancreed/Desktop/University/FourthYear/Dissertation/Test_Algo_Trader/MAS_Coursework_Double_Auction/

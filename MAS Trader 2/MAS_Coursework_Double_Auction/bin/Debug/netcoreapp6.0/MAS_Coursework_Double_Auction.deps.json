@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MAS_Coursework_Double_Auction/1.0.0": {
+        "dependencies": {
+          "ActressMas": "3.0.0.0"
+        },
+        "runtime": {
+          "MAS_Coursework_Double_Auction.dll": {}
+        }
+      },
+      "ActressMas/3.0.0.0": {
+        "runtime": {
+          "ActressMas.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAS_Coursework_Double_Auction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActressMas/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
